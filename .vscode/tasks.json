@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+      {
+          "label": "reload plugin",
+          "type": "shell",
+          "command": "X:/games/iniRePather-Skyrim/Mod Organizer 2/ModOrganizer.exe",
+          "args": [
+              "reload-plugin", "DSD Generator"
+          ]
+      }
+  ]
+}
